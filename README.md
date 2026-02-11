@@ -4,6 +4,9 @@ Try it out
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aradhakrishnanGFDL/intake-mdtf-demo/main)
 
+It can take a minute for the binder to load. It's doing a lot of setup for you. Once it loads, you will see a few directories displayed from the github repo.
+From there, navigate to notebooks and open demo-search-explore.ipynb. You can run/play each cell live and see the magic of data catalogs. 
+
 Take home
 -------------
 1. [This repository](https://github.com/aradhakrishnanGFDL/intake-mdtf-demo) and the [notebook](https://github.com/aradhakrishnanGFDL/intake-mdtf-demo/blob/main/notebooks/demo-search-explore.ipynb)
